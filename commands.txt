@@ -1,0 +1,10 @@
+ git init
+ git status
+ git add python.py
+ git commit -m "python py added"
+ git add commands.txt
+ git commit -m "commands added"
+ ls
+ gti remote
+ clear
+ git remote -v
